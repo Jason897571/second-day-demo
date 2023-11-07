@@ -1,2 +1,3 @@
-# second-day-demo
-2023-11-07 BootCamp
+# second-day-demo 2023-11-07
+
+## This is demo project
